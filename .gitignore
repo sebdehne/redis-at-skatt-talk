@@ -1,0 +1,11 @@
+.idea/
+smarthome-server.iml
+target/
+testdir/
+dist/
+
+node_modules/
+logs/
+storage.properties
+properties.json
+webapp/build
